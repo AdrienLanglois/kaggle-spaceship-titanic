@@ -6,4 +6,4 @@ While rounding Alpha Centauri en route to its first destination—the torrid 55 
 
 Let's use Machine Learning in order to predict which passengers were transported by the anomaly using records recovered from the spaceship’s damaged computer system!
 
-![Spaceship Titanic](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40asaadaali%2F7-reasons-why-you-should-try-spaceship-titanic-challenge-c3418f33736d&psig=AOvVaw0zqn5l6O-kOjxxCg8WjNbz&ust=1706901511793000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCw8OPtioQDFQAAAAAdAAAAABAT)
+![Spaceship Titanic](https://miro.medium.com/v2/resize:fit:640/format:webp/1*q4Di1NuAoDwm0ErFuJhG5g.jpeg)
